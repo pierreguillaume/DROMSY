@@ -1,11 +1,3 @@
-//
-// MAX7219 Control. Assumes two 8x8 LED Matrices
-//
-// http://www.amazon.co.uk/MAX7219-Matrix-Display-Module-Board/dp/B00NQB4ICG/ref=lh_ni_t?ie=UTF8&psc=1&smid=A50DZI580G3JX
-//
-// http://playground.arduino.cc/Main/LedControl 
-
-
 #include <LedControl.h>
 
 #include <TimeLib.h> 
